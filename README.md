@@ -1,2 +1,2 @@
 # Weather
-This app shows the weather.
+This app shows the weather!
